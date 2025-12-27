@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://putraaryawinata.github.io/sitemap.xml
+Sitemap: https://putraaryawinata.github.ioblank/sitemap.xml
